@@ -2,10 +2,7 @@
 
 A basic calculator web app that performs simple arithmetic operations — addition, subtraction, multiplication, and division. Built with **HTML, CSS, and JavaScript**.
 
-## 🚀 Demo
-
-[Live Demo](https://your-live-link-here.com)  
-*(Replace with your GitHub Pages link if deployed)*
+## Live Demo: (https://kfizza1.github.io/Calculator-Using-JS/)  
 
 ## 🧰 Features
 
